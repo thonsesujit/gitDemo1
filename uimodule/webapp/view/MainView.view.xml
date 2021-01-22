@@ -8,11 +8,8 @@
         <content>
           <Button text="featureButton1" />
           <Button text="developbranchButton"/>
-<<<<<<< Updated upstream
           <Button text="Q1ReleaseCommentButton"></Button>
-=======
           <Button text="developBranchButton2"/>
->>>>>>> Stashed changes
         </content>
       </Page>
     </pages>
