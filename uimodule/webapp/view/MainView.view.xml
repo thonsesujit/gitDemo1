@@ -8,6 +8,7 @@
         <content>
           <Button text="featureButton1" />
           <Button text="developbranchButton"/>
+          <Button text="Q1ReleaseCommentButton"></Button>
         </content>
       </Page>
     </pages>
